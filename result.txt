@@ -1,0 +1,15 @@
+John is on the box (2,3); orientation :E money :0
+John is on the box (2,3); orientation :N money :0
+John is on the box (2,2); orientation :N money :0
+There is a mountain so John cannot go there
+John is on the box (2,2); orientation :N money :0
+John is on the box (2,2); orientation :N money :0
+There is a mountain so John cannot go there
+John is on the box (2,2); orientation :N money :0
+John is on the box (2,2); orientation :N money :0
+John is on the box (2,2); orientation :E money :0
+John is on the box (3,2); orientation :E money :0
+John is on the box (3,2); orientation :S money :0
+John is on the box (3,3); orientation :S money :0
+John is on the box (3,3); orientation :E money :0
+John is on the box (4,3); orientation :E money :0
